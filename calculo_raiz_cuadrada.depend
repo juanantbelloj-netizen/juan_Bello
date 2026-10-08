@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1789233057 source:c:\users\lenovo\documents\programacion para mecatronico\calculo_raiz_cuadrada\main.c
+	<stdio.h>
+	<stdlib.h>
+
